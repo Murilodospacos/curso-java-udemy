@@ -4,5 +4,6 @@ public class Program {
         System.out.println("Murilo dos Paços");
         System.out.println("Vamos com tudo!!!");
         System.out.println("Primeiro Programa");
+        System.out.println("Java é top!!");
     }
 }
